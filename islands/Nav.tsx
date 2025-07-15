@@ -17,7 +17,7 @@ export default class Nav extends Component<NavProps> {
             href="/"
             class="text-2xl font-bold bg-gradient-to-r from-gray-900 via-gray-500 to-gray-900 bg-clip-text text-transparent hover:text-black"
           >
-            PianoChord.app
+            PianoChord
           </a>
         </div>
         <ul class="nav-links">
